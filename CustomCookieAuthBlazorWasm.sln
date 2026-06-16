@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCookieAuthBlazorWasm", "CustomCookieAuthBlazorWasm\CustomCookieAuthBlazorWasm.csproj", "{E0A7A420-8E22-48B2-ADDF-8218352AE1C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCookieAuthBlazorWasm.Client", "CustomCookieAuthBlazorWasm.Client\CustomCookieAuthBlazorWasm.Client.csproj", "{890E66A0-5D9D-4FD2-9A60-CBBE294749B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0A7A420-8E22-48B2-ADDF-8218352AE1C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A7A420-8E22-48B2-ADDF-8218352AE1C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A7A420-8E22-48B2-ADDF-8218352AE1C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A7A420-8E22-48B2-ADDF-8218352AE1C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{890E66A0-5D9D-4FD2-9A60-CBBE294749B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890E66A0-5D9D-4FD2-9A60-CBBE294749B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890E66A0-5D9D-4FD2-9A60-CBBE294749B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890E66A0-5D9D-4FD2-9A60-CBBE294749B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C031165-1FF1-41C4-AB87-CF547B253D55}
+	EndGlobalSection
+EndGlobal
